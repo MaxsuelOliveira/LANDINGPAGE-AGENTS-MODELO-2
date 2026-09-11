@@ -1,8 +1,17 @@
-# React + Vite
+# Projeto legado — duplicado do AI Security Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório foi identificado como uma cópia da aplicação mantida em [LANDINGPAGE-CURSOS-IA](https://github.com/MaxsuelOliveira/LANDINGPAGE-CURSOS-IA).
 
-Currently, two official plugins are available:
+Os principais arquivos e diretórios de `src/` possuem o mesmo conteúdo. Nenhuma nova evolução deve ser realizada aqui.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Repositório oficial
+
+- [MaxsuelOliveira/LANDINGPAGE-CURSOS-IA](https://github.com/MaxsuelOliveira/LANDINGPAGE-CURSOS-IA)
+
+## Status
+
+Descontinuado. Recomendação administrativa: arquivar este repositório no GitHub.
+
+## Licença
+
+O código existente permanece sob a licença MIT. Consulte `LICENSE`.
